@@ -135,8 +135,8 @@ img {
 }
 
 .home img {
-    height: 100%;
-    width: 50%;
+    height: 200px;
+    width: 200px;
     
 
 }
@@ -206,6 +206,7 @@ img {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+
 
 }
 
@@ -286,12 +287,12 @@ img {
     justify-self: center;
     align-self: center;
     padding-top: 20px;
-    padding-bottom: 20px; 
+    padding-bottom: 5px; 
 }
 
 .piecePic {
-    height: 75%;
-    width: 75%;
+    height: 100px;
+    width: 100px;
     align-self: center;
     justify-self: center;
     
@@ -358,12 +359,12 @@ img {
     justify-self: center;
     align-self: center;
     padding-top: 20px;
-    padding-bottom: 20px; 
+    padding-bottom: 5px; 
 }
 
 .matePic {
-    height: 100%;
-    width: 75%;
+    height: 200px;
+    width: 200px;
     align-self: center;
     justify-self: center;
     
