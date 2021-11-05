@@ -41,24 +41,6 @@ nav a:hover {
 }
 
 
-.skip a{
-    background: #FFFDE4;
-    left: 0;
-    padding: 6px;
-    -webkit-transition: top 1s ease-out;
-    transition: top 1s ease-out;
-    z-index: 1;
-    position: absolute;
-    top: -40px;
-    
-  }
-  
-  .skip a:focus{
-    position: absolute;
-    bottom: 0%;
-  
-  }
-
 
 /* Footer */
 
@@ -75,8 +57,8 @@ footer{
 
 /*  general stlye */
 body {
-    background-image: url(../images/background.jpeg);
-    color: #FFFDE4;
+    background: url(../images/background.jpeg), #533012;
+    color: #FFE4CD;
 }
 
 h2 {
