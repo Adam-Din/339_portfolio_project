@@ -490,7 +490,7 @@ h2.intro {
 /* Contact */
 
 .contact {
-    background: url(../images/parralax.jpg), white;
+    background: url(../images/parralax.jpg), black;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -502,7 +502,7 @@ form {
     padding: 20px;
   }
   
-  legend{ 
+  legend {  
     font-size: 32px;
     font-style:italic;
     text-transform: uppercase;
@@ -510,10 +510,10 @@ form {
     color: #FFFDE4;
   }
   
-  label{
+  label { 
     margin-right:10px;
     width:15%;
-    color: #FFF;
+    color: #FFFDE4;
     font-size: 24px;
   }
 
